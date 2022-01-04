@@ -1,23 +1,7 @@
-names = ['Aavani','Akmaludheen','Anchu','Anju','Archana','Hiba','Irene','Priya','Sachin','Adeeb','Safna','Venkidesh ','Athulya','Aishwarya','Ananthakrishnan','Fakrudeen','ROHITH ','Vishnupriya']
-
-email = ['aavanibaiju18@gmail.com',
-'akmalvk6@gmail.com',
-'anchupnair@gmail.com ',
-'anju.bj98@gmail.com',
-'archanamohan098@gmail.com',
-'delta.hiba5@gmail.com',
-'irenemmthw@gmail.com',
-'priya1997klm@gmail.com',
-'sachindas512@gmail.com',
-'deebt.mec@gmail.com',
-'safnake@gmail.com ',
-'kvenkidesh@gmail.com',
-'athulyacprakash@gmail.com',
-'aish.thamburangal@gmail.com',
-'ananthakrisb@gmail.com',
-'fakrudeenj1994@gmail.com',
-'rohithrudra88@gmail.com',
-'vishnupriya9562@gmail.com']
+#create a list of names
+names = ['a','b','c']
+#create a list of email
+email = ['a@gmail.com','b@gmail.com','c@gmail.com']
 
 import random
 
